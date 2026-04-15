@@ -1,2 +1,2 @@
 # DreisamLib
-离线版SDK
+Off-line SDK - V1.0.3

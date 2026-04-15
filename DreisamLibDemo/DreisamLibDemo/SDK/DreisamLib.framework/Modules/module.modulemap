@@ -1,0 +1,6 @@
+framework module DreisamLib {
+  umbrella header "DreisamLib.h"
+  export *
+
+  module * { export * }
+}
